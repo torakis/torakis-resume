@@ -1,0 +1,47 @@
+{
+    "internationalizations": [
+        {
+            "language": "el",
+            "description": "Είμαι Senior Software Engineer με βασικό προσανατολισμό τις διαδικτυακές εφαρμογές (web applications). Υπήρξα μέλος πολλών ομάδων σε διάφορα έργα στον τραπεζικό τομέα (fintech), σε εταιρείες τηλεπικοινωνιών και σε εταιρίες λογισμικού. Οι κύριες τεχνολογίες με τις οποίες εργάζομαι είναι.NET (Core/Framework), Angular και SQL (SQL Server/Oracle). Αποφοίτησα από το Πολυτεχνείο Κρήτης, σχολή Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών, το 2019 (5ετές πτυχίο με ενσωματωμένο Master). Ολοκλήρωσα επίσης το δεύτερο μεταπτυχιακό μου στη Βιοϊατρική Μηχανική στην Ιατρική Σχολή του Πανεπιστημίου Κρήτης."
+        },
+        {
+            "language": "en",
+            "description": "I am a Senior Software Engineer mainly focused on web applications. I have been a member of many teams in different projects in the banking sector (fintech), telecom companies, and software houses. The main technologies I've been working with, are.NET (Core/Framework), Angular, and SQL (SQL Server/Oracle). I graduated from the Technical University of Crete, school of Electrical and Computer engineering, in 2019 (5 year integrated Master's). I also completed my second MSc in Biomedical Engineering at the University of Crete, School of Medicine."
+        }
+    ],
+    "medias": [        
+        {
+            "icon": "linkedin",
+            "title": "LinkedIn",
+            "http": "https://www.linkedin.com/in/john-torakis/"
+        },
+        {
+            "icon": "facebook",
+            "title": "Facebook",
+            "http": "https://www.facebook.com/john.torakis"
+        },
+        {
+            "icon": "twitter",
+            "title": "Gmail",
+            "http": "https://www.facebook.com/john.torakis"
+        }
+    ],
+    "hobbies": [        
+        {
+            "icon": "basketball",
+            "title": "Basketball"
+        },
+        {
+            "icon": "dumbbell",
+            "title": "Gym"
+        },
+        {
+            "icon": "suitcase-rolling",
+            "title": "Travel"
+        },
+        {
+            "icon": "music",
+            "title": "Playing music"
+        }
+    ]
+}

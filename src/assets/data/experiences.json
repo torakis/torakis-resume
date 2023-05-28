@@ -1,0 +1,283 @@
+[
+    {
+        "id": 1,
+        "position": 1,
+        "startAt": "03-01-2018",
+        "endAt": "12-01-2018",
+        "companyName": "Technical University of Crete",
+        "website": "https://www.tuc.gr/",
+        "logo": "assets/template/experience/logo/tuc-logo.png",
+        "internationalizations": [
+            {
+                "language": "el",
+                "city": "Χανιά",
+                "country": "Ελλάδα",
+                "role": "Systems Administrator (Πρακτική)",
+                "description": "Εργάστηκα ως διαχειριστής συστημάτων στο κέντρο δικτύου του <b>Πολυτεχνείου Κρήτης</b>. Τα κύρια καθήκοντα ήταν η εγκατάσταση, διαχείριση και συντήρηση υπολογιστικών συστημάτων και σταθμών εργασίας, καθώς και η συνεχής ενημέρωση του UI των χρηστών. Παρείχα επίσης υποστήριξη σε θέματα υλικού και λογισμικού. Τέλος, ανέπτυξα μερικά scripts για penetration testing (sql injection)."
+            },
+            {
+                "language": "en",
+                "city": "Chania",
+                "country": "Greece",
+                "role": "Systems Administrator (Internship)",
+                "description": "I worked as a systems administrator in the network center of the <b>Technical University of Crete</b>. The main tasks were the installation, management and maintainance of computing systems and workstations, as well as the continuous update of the users' UI. I also provided support on hardware and software issues. Finally, I developed some scripts for penetration testing (sql injection)."
+            }
+        ],
+        "technologies": [
+            "HTML", "CSS", "CSS3", "Javascript", "Python", "Wordpress", "SQL", "MySQL", "SQL Injection", "Windows"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "Technical University of Crete",
+                "http": "https://www.linkedin.com/school/tuc_chania/"
+            },
+            {
+                "icon": "facebook",
+                "title": "Technical University of Crete",
+                "http": "https://www.facebook.com/TUC.Chania"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/chania.jpg"
+    },
+    {
+        "id": 2,
+        "position": 2,
+        "startAt": "12-01-2018",
+        "endAt": "11-01-2019",
+        "companyName": "Nokia",
+        "website": "https://www.nokia.com/",
+        "logo": "assets/template/experience/logo/nokia-logo.png",
+        "internationalizations": [
+            {
+                "language": "el",
+                "city": "Αθήνα",
+                "country": "Ελλάδα",
+                "role": "Software Engineer (Πρακτική)",
+                "description": "Εργάστηκα ως μηχανικός λογισμικού σε μια ομάδα που ανέπτυξε εσωτερικά εργαλεία (dashboards) για τη διαχείριση και την παρακολούθηση του κύριου προϊόντος της εταιρίας. Η ομάδα αποτελούνταν από υποομάδες διαφόρων χωρών και η ομάδα δούλευε με μεθοδολογία Agile με scrums δύο εβδομάδων. Οι κύριες τεχνολογίες που χρησιμοποιήθηκαν για την ανάπτυξη των web applications (dashboards) ήταν Python/Flask, Java SpringBoot, Angular και ReDis. Το CI/CD γινόταν μέσω pipelines χτισμένα σε jenkins. Επίσης χρησιμοποιήθηκαν μοντέλα machine learning για prediction και classification, τα οποία βοήθησαν στην καλύτερη διαχείριση/παρακολούθηση του κύριου προιόντος."
+            },
+            {
+                "language": "en",
+                "city": "Athens",
+                "country": "Greece",
+                "role": "Software Engineer (Internship)",
+                "description": "I worked as software engineer intern in a team that developed internal tools (dashboards) for the management and monitoring of the main product. The project was multinational and the team worked in an Agile pattern with two-week scrums. The dashboards were build in Python/Flask, Java SpringBoot, Angular and ReDis. The CI/CD was managed by jenkins pipelines. Machine learning was also involved, performing prediction and classification tasks."
+            }
+        ],
+        "technologies": [
+            "Python", "Flask", "NoSQL", "Typescript", "Angular", "AngularJS", "Redis", "Git", "SQL", "Scrum", "Unit Tests", "HTML", "CSS", "CSS3", "Javascript", "REST", "Maven", "Spring Boot", "Linux" 
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "Nokia",
+                "http": "https://www.linkedin.com/company/nokia/"
+            },
+            {
+                "icon": "facebook",
+                "title": "Nokia",
+                "http": "https://www.facebook.com/nokia"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/nokia.jpg"
+    },
+    {
+        "id": 3,
+        "position": 3,
+        "startAt": "11-01-2019",
+        "endAt": "05-31-2020",
+        "companyName": "Deloitte (National Bank Greece)",
+        "website": "https://www.deloitte.com/global/en.html",
+        "logo": "assets/template/experience/logo/deloitte-logo.png",
+        "internationalizations": [
+            {
+                "language": "el",
+                "city": "Αθήνα",
+                "country": "Ελλάδα",
+                "role": ".NET Software Engineer",
+                "description": "Εργάστηκα ως Full-stack .NET Μηχανικός Λογισμικού για την <b> Εθνική Τράπεζα της Ελλάδος</b>. Ήμουν μέλος της ομάδας του digital transformation του Internet Banking, όπου ενεπλάκην σε διάφορες εργασίες. Η κύρια εργασία μου ήταν η ανάπτυξη Web API σε .NET Framework 4.6.1, με Angular 8 και MySQL Server. Τα API είχαν λειτουργικότητα σχετικά με τους τραπεζικούς λογαριασμούς και τις κάρτες λιανικής. Ο τρόπος εργασίας ακολουθούσε μοντέλο test driven development (TDD). Μεταξύ άλλων, χρησιμοποίησα το Selenium και το Specflow για την υλοποίηση του behavioral driven development (BDD), για την δοκιμή της εφαρμογής η οποία θα διασφάλιζε την ομαλή εμπειρία χρήστη."
+            },
+            {
+                "language": "en",
+                "city": "Athens",
+                "country": "Greece",
+                "role": ".NET Software Engineer",
+                "description": "I worked as a Full-stack .NET Software Engineer for the <b> National Bank of Greece</b>. I was part of the team of the Internet Banking redesign project, where I came across various tasks. The main task was the development of web APIs in .NET Framework 4.6.1, with Angular 8 and MySQL Server. The APIs were implementing functionality about the retail bank accounts and cards. The coding pattern was test driven development (TDD). Amongst others, I also used Selenium and Specflow for behavioral driven development (BDD)."
+            }
+        ],
+        "technologies": [
+            ".NET", ".NET Framework", ".NET Core", "C#", "SQL Server", "SQL", "Angular", "Unit Tests", "Selenium", "Git", "Versioning Control", "BDD"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "Deloitte",
+                "http": "https://www.linkedin.com/company/deloitte/"
+            },
+            {
+                "icon": "facebook",
+                "title": "Deloitte",
+                "http": "https://www.facebook.com/DeloitteGreece"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/nbg.jpg"
+    },
+    {
+        "id": 4,
+        "position": 4,
+        "startAt": "12-01-2020",
+        "endAt": "11-01-2021",
+        "companyName": "Epic Studios/Uni Systems (Alpha Bank Greece)",
+        "website": "https://www.epicstudios.org/",
+        "logo": "assets/template/experience/logo/epic-logo.png",
+        "internationalizations": [
+            {
+                "language": "el",
+                "city": "Αθήνα",
+                "country": "Ελλάδα",
+                "role": "Full-stack Software Engineer",
+                "description": "(Υπεργολάβος για την Uni Systems). Εργάστηκα ως Full-stack .NET Software Engineer για την <b> Alpha Bank Greece</b>. Εργάστηκα στο Core Banking System, το οποίο είναι ο πυρήνας των βασικών λειτουργιών της τράπεζας. Ήμουν μέλος της ομάδας front end, η οποία είναι χρησιμοποιεί Angular 10, .NET Core και SQL Server. Τόσο REST όσο και SOAP APIs χρησιμοποιήθηκαν για την διεπαφή με το middleware (business layer). Εργάστηκα με τις πιο πρόσφατες τεχνολογίες Angular, συμπεριλαμβανομένων των RxJs και NgRx για state management. Ασχολήθηκα επίσης με τον αρχιτεκτονικό σχεδιασμό νέων έργων."
+            },
+            {
+                "language": "en",
+                "city": "Athens",
+                "country": "Greece",
+                "role": "Full-stack Software Engineer",
+                "description": "(Outsourcing for Uni Systems). I worked as a Full-stack .NET Software Engineer for <b> Alpha Bank Greece</b>. I worked in the Core Banking System, which is the heart of the bank's core operations. I was a member of the front layer team, which is built with Angular 10, .NET Core and SQL Server. Both REST and SOAP APIs were used for the communication with other business layers. I worked with the latest Angular technologies, including RxJs and NgRx for state management. I was also involved in the architectural design of new projects."
+            }
+        ],
+        "technologies": [
+            "C#", ".NET Core", "Angular", "Typescript", "Javascript", "SQL Server", "Versioning Control", "DevOps", "CI/CD", "NPM", "Unit Tests"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "Epic Studios",
+                "http": "https://www.linkedin.com/company/epicstudios/"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/alphabank.jpg"
+    },
+    {
+        "id": 5,
+        "position": 5,
+        "startAt": "11-01-2021",
+        "endAt": "04-01-2022",
+        "companyName": "Uni Systems (Alpha Bank Greece)",
+        "website": "https://www.unisystems.com/",
+        "logo": "assets/template/experience/logo/unisystems-logo.png",
+        "internationalizations": [
+            {
+                "language": "el",
+                "city": "Αθήνα",
+                "country": "Ελλάδα",
+                "role": "Full-stack Software Engineer",
+                "description": "Εργάστηκα ως Full-stack .NET Software Engineer για την <b> Alpha Bank Greece</b>. Εργάστηκα στο Core Banking System, το οποίο είναι ο πυρήνας των βασικών λειτουργιών της τράπεζας. Ήμουν μέλος της ομάδας front end, η οποία είναι χρησιμοποιεί Angular 10, .NET Core και SQL Server. Τόσο REST όσο και SOAP APIs χρησιμοποιήθηκαν για την διεπαφή με το middleware (business layer). Εργάστηκα με τις πιο πρόσφατες τεχνολογίες Angular, συμπεριλαμβανομένων των RxJs και NgRx για state management. Ασχολήθηκα επίσης με τον αρχιτεκτονικό σχεδιασμό νέων έργων. Τέλος, εργάστηκα πάνω σε ενοποίηση/μεταφορά δεδομένων, σε SQL Server."
+            },
+            {
+                "language": "en",
+                "city": "Athens",
+                "country": "Greece",
+                "role": "Full-stack Software Engineer",
+                "description": "I worked as a Full-stack .NET Software Engineer for <b> Alpha Bank Greece</b>. I worked in the Core Banking System, which is the heart of the bank's core operations. I was a member of the front layer team, which is built with Angular 10, .NET Core and SQL Server. Both REST and SOAP APIs were used for the communication with other business layers. I worked with the latest Angular technologies, including RxJs and NgRx for state management. I was also involved in the architectural design of new projects. Finally, I worked on data integration/migration on SQL Server."
+            }
+        ],
+        "technologies": [
+            "C#", ".NET Core", "Angular", "Typescript", "Javascript", "SQL Server", "Versioning Control", "DevOps", "CI/CD", "NPM", "Unit Tests"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "Uni Systems",
+                "http": "https://www.linkedin.com/company/unisystems/"
+            },
+            {
+                "icon": "facebook",
+                "title": "Uni Systems",
+                "http": "https://www.facebook.com/UniSystemsOfficial"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/alphabank.jpg"
+    },
+    {
+        "id": 6,
+        "position": 6,
+        "startAt": "04-01-2022",
+        "endAt": "09-01-2022",
+        "companyName": "Qualco",
+        "website": "https://www.qualco.eu/",
+        "logo": "assets/template/experience/logo/qualco-logo.png",
+        "internationalizations": [
+            {
+                "language": "el",
+                "city": "Αθήνα",
+                "country": "Ελλάδα",
+                "role": "Full-stack Software Engineer",
+                "description": "Εργάστηκα ως Full-stack .NET Software Engineer για την <b> Qualco</b>. Οι κύριες εργασίες αφορούσαν την ανάπτυξη/βελτίωση του βασικού προϊόντος της εταιρείας (Qualco Collections), το οποίο παρείχε προσαρμοσμένη λειτουργικότητα σε κάθε πελάτη. Η πλατφόρμα αναπτύχθηκε αρχικά σε φόρμες Windows και στη συνέχεια μετεγκαταστάθηκε σε .NET Core και Angular. Ένα μεγάλο μέρος του ρόλου ήταν οι εργασίες μετεγκατάστασης και ενοποίησης στον SQL Server, όπου ανέπτυξα stored procedures και packages για εισαγωγή/διαχείριση δεδομένων. Συμμετείχα επίσης στη διαδικασία CI/CD, με το τρέξιμο pipelines/releases στο Azure Devops."
+            },
+            {
+                "language": "en",
+                "city": "Athens",
+                "country": "Greece",
+                "role": "Full-stack Software Engineer",
+                "description": "I worked as a Full-stack .NET Software Engineer for <b> Qualco</b>. The main tasks involved the development/improvement of the core company product (Qualco Collections), which was provided with custom functionality to each client. The platform was firstly developed in Windows Forms, and then migrated to .NET Core and Angular. A big part of the role was migration and integration tasks on SQL Server, where I developed stored procedures and packages for data import/management. I was also involved in the CI/CD process, by running pipelines and deploying releases on Azure Devops."
+            }
+        ],
+        "technologies": [
+            "C#", ".NET", "Windows Forms", "Angular", "Typescript", "Javascript", "Versioning Control", "DevOps", "CI/CD", "SQL Server"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "Qualco",
+                "http": "https://www.linkedin.com/company/qualco/"
+            },
+            {
+                "icon": "facebook",
+                "title": "Qualco",
+                "http": "https://www.facebook.com/qualco.social"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/qualco.jpg"
+    },
+    {
+        "id": 7,
+        "position": 7,
+        "startAt": "09-01-2022",
+        "companyName": "Cosmos Business Systems S.A.",
+        "website": "https://www.cbs.gr/",
+        "logo": "assets/template/experience/logo/cbs-logo.png",
+        "internationalizations": [
+            {
+                "language": "el",
+                "city": "Αθήνα",
+                "country": "Ελλάδα",
+                "role": "Senior Software Engineer",
+                "description": "Η τρέχουσα θέση μου είναι Senior Software Engineer/Team Lead στην <b> Cosmos Business Systems</b>. Η ομάδα μου εργάζεται για έναν πελάτη στο δημόσιο τομέα, όπου είμαστε υπεύθυνοι για την ανάπτυξη νεων και τη συντήρηση υπαρχόντων προνειακών επιδομάτων. Τα κύρια καθήκοντά μου είναι η ανάπτυξη νέων έργων και η υλοποίηση αιτημάτων αλλαγής σε υπάρχοντα, καθώς και η πληρωμή κάθε επιδόματος κάθε μήνα. Το τελευταίο εκτελείται μέσω through stored procedures και  packages στην Oracle, τα οποία πρέπει να εκτελούνται, να βελτιώνονται και να διατηρούνται κάθε μήνα. Οι βασικές τεχνολογίες που χρησιμοποιούνται είναι .NET Framework 4.6.1 MVC και Oracle SQL. Πριν από την τρέχουσα ενασχόλησή μου με αυτόν τον πελάτη εργαζόμουν σε ένα άλλο έργο του δημόσιου τομέα, όπου οι τεχνολογίες που χρησιμοποιήθηκαν ήταν οι .NET 5, Angular 11 και PostgreSQL. Η εφαρμογή αναπτυσσόταν σε Docker και η εγκατάσταση της ήταν στο Kubernetes, όπου ήμουν υπεύθυνος και για το CI/CD."
+            },
+            {
+                "language": "en",
+                "city": "Athens",
+                "country": "Greece",
+                "role": "Senior Software Engineer",
+                "description": "My current position is a Senior Software Engineer/Team Lead in <b> Cosmos Business Systems</b>. My team is working for a client in the public sector, where we are responsible for the development and maintainance of wellfare benefits. My main tasks are the development of new projects and implementation of change requests in existing ones, as well as the payment of each benefit every month. The latter is performed through stored procedures and packages on Oracle, which need to be executed, improved and maintained every month. The core technologies used are .NET Framework 4.6.1 MVC and Oracle SQL. Before my current engagement with this client I worked on another project of the public sector, where the used technologies were .NET 5, Angular 11 and PostgreSQL. The application was running on Docker and the deployment was on Kubernetes, where I was responsible for the CI/CD as well."
+            }
+        ],
+        "technologies": [
+            "C#", ".NET Core", ".NET Framework", "ASP NET MVC", "PostgreSQL", "Oracle", "Angular", "Typescript", "jQuery", "Javascript", "Docker", "Kubernetes", "Versioning Control", "DevOps", "CI/CD", "NPM"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "CBS",
+                "http": "https://www.linkedin.com/company/cosmos-business-systems/mycompany/"
+            },
+            {
+                "icon": "facebook",
+                "title": "CBS",
+                "http": "https://www.facebook.com/CosmosBusinessSystemsSA"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/cbs.jpg"
+    }
+]
